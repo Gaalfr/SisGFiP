@@ -6,9 +6,24 @@ public class main {
     public static void main(String[] args){
 int saldo= 0;
         Scanner scanner = new Scanner(System.in);
+ArrayList<String> extrato= new ArrayList<>();
 
+        Usuario usuarioSistema = new Usuario("admin", "1234");
+    System.out.println("LOGIN:    ");
+    System.out.println("Usuario :");
+        String usuarioDigitado = scanner.nextLine();
 
-        ArrayList<String> extrato =new ArrayList<>();
+        System.out.println("senha");
+        String senhaDigitada = scanner.nextLine();
+        if (!usuarioSistema.autenticar(usuarioDigitado, senhaDigitada)) {
+            System.out.println("Login ou senha incorretos.");
+            return;
+        }
+
+        System.out.println("Login realizado com sucesso.");
+
+        System.out.println("login realizado");
+
 while (true){
 
     System.out.println("entre com sua receita (salario ou lucros):-------> 1");
@@ -46,6 +61,7 @@ while (true){
             }
 
             System.out.println("saldo atual:"+ saldo);
+            break;
 
         case 5:
             System.out.println("saindo");
