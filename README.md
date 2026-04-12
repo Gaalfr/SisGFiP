@@ -1,4 +1,4 @@
-# 💰 Sistema Financeiro em Java
+#  Sistema Financeiro em Java
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge)
@@ -9,12 +9,22 @@ Projeto desenvolvido em Java com foco em **Programação Orientada a Objetos (PO
 O sistema simula um ambiente de controle financeiro com múltiplos usuários, autenticação e registro de movimentações.
 
 ---
+##  Instruções de uso
 
-## 🎥 Demonstração
+Ao iniciar o programa, a tela de login será exibida.
+
+### 1. Fazer login
+Use um dos usuários padrão cadastrados no sistema:
+
+```text
+Usuário: admin
+Senha: 1234
+
+##  Demonstração
 
 ![Demonstração do sistema](Demo.gif)
 
-> ⚠️ Caso o GIF não apareça, verifique se o arquivo `demo.gif` está na raiz do projeto.
+>  Caso o GIF não apareça, verifique se o arquivo `demo.gif` está na raiz do projeto.
 
 ---
 
