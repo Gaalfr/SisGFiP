@@ -9,16 +9,7 @@ Projeto desenvolvido em Java com foco em **Programação Orientada a Objetos (PO
 O sistema simula um ambiente de controle financeiro com múltiplos usuários, autenticação e registro de movimentações.
 
 ---
-##  Instruções de uso
 
-Ao iniciar o programa, a tela de login será exibida.
-
-### 1. Fazer login
-Use um dos usuários padrão cadastrados no sistema:
-
-```text
-Usuário: admin
-Senha: 1234
 
 ##  Demonstração
 
