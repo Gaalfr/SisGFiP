@@ -25,10 +25,10 @@ Ao iniciar o programa, a tela de login será exibida.
 ### . Fazer login
 Use um dos usuários padrão cadastrados no sistema:
 
-```text
+
 Usuário: admin
 Senha: 1234
-##  Funcionalidades
+## Funcionalidades
 
 - Login de usuários
 - Cadastro de novos usuários
