@@ -12,7 +12,7 @@ O sistema simula um ambiente de controle financeiro com múltiplos usuários, au
 
 ## 🎥 Demonstração
 
-![Demonstração do sistema](demo.gif)
+![Demonstração do sistema](Demo.gif)
 
 > ⚠️ Caso o GIF não apareça, verifique se o arquivo `demo.gif` está na raiz do projeto.
 
