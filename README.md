@@ -18,7 +18,16 @@ O sistema simula um ambiente de controle financeiro com múltiplos usuários, au
 >  Caso o GIF não apareça, verifique se o arquivo `demo.gif` está na raiz do projeto.
 
 ---
+##  Instruções de uso
 
+Ao iniciar o programa, a tela de login será exibida.
+
+### . Fazer login
+Use um dos usuários padrão cadastrados no sistema:
+
+```text
+Usuário: admin
+Senha: 1234
 ##  Funcionalidades
 
 - Login de usuários
